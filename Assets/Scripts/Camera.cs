@@ -8,9 +8,23 @@ public class Camera : MonoBehaviour
 
     void LateUpdate()
     {
-        if (target == null) return;
+        // Auto-find player if target is null
+        if (target == null)
+        {
+            FindPlayer();
+            return;
+        }
+
         Vector3 desiredPos = target.position + offset;
         Vector3 smoothed = Vector3.Lerp(transform.position, desiredPos, smoothSpeed);
         transform.position = new Vector3(smoothed.x, smoothed.y, transform.position.z);
     }
+
+    void FindPlayer()
+    {
+        GameObject p = GameObject.FindGameObjectWithTag("Player");
+        if (p != null)
+            target = p.transform;
+    }
 }
+
