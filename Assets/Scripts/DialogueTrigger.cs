@@ -7,11 +7,11 @@ public class DialogueTrigger : MonoBehaviour
 
     public bool autoTrigger = false; 
     private bool playerInside = false;
-    private bool hasTriggered = false;  // prevents repeat
+    private bool hasTriggered = false;  
 
     void Update()
     {
-        // Player must press E (if autoTrigger == false)
+
         if (!autoTrigger && playerInside && Input.GetKeyDown(KeyCode.E))
         {
             TriggerDialogue();
@@ -24,7 +24,6 @@ public class DialogueTrigger : MonoBehaviour
         {
             playerInside = true;
 
-            // Auto-trigger ONCE
             if (autoTrigger && !hasTriggered)
             {
                 TriggerDialogue();
@@ -42,7 +41,7 @@ public class DialogueTrigger : MonoBehaviour
 
     void TriggerDialogue()
     {
-        if (hasTriggered) return; // prevent repeats
+        if (hasTriggered) return; 
 
         hasTriggered = true; 
 

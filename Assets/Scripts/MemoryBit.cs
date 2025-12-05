@@ -6,11 +6,11 @@ public class MemoryBit : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Trigger hit: " + other.name); // DEBUG LINE
+        Debug.Log("Trigger hit: " + other.name); 
 
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Player collected item"); // DEBUG LINE
+            Debug.Log("Player collected item"); 
             EmotionalSystem.Instance.AddEmotion(emotionalScore);
             Destroy(gameObject);
         }

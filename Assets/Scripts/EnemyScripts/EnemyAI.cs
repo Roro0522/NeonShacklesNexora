@@ -22,12 +22,13 @@ public class EnemyAI : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
+
         baseY = transform.position.y;
     }
 
     void Update()
     {
-        if (isDead) return;  
+        if (isDead) return;
 
         float dist = Vector2.Distance(transform.position, player.position);
 
@@ -36,17 +37,17 @@ public class EnemyAI : MonoBehaviour
         else
             Patrol();
 
-        Hover(); 
+        Hover();
     }
 
     void Patrol()
     {
+        if (leftPoint == null || rightPoint == null) return;
+
         if (movingRight)
         {
-            transform.position = new Vector2(
-                Mathf.MoveTowards(transform.position.x, rightPoint.position.x, speed * Time.deltaTime),
-                transform.position.y
-            );
+            float newX = Mathf.MoveTowards(transform.position.x, rightPoint.position.x, speed * Time.deltaTime);
+            transform.position = new Vector2(newX, transform.position.y);
 
             if (Mathf.Abs(transform.position.x - rightPoint.position.x) < 0.1f)
                 movingRight = false;
@@ -55,10 +56,8 @@ public class EnemyAI : MonoBehaviour
         }
         else
         {
-            transform.position = new Vector2(
-                Mathf.MoveTowards(transform.position.x, leftPoint.position.x, speed * Time.deltaTime),
-                transform.position.y
-            );
+            float newX = Mathf.MoveTowards(transform.position.x, leftPoint.position.x, speed * Time.deltaTime);
+            transform.position = new Vector2(newX, transform.position.y);
 
             if (Mathf.Abs(transform.position.x - leftPoint.position.x) < 0.1f)
                 movingRight = true;
@@ -69,11 +68,8 @@ public class EnemyAI : MonoBehaviour
 
     void ChasePlayer()
     {
-        transform.position = Vector2.MoveTowards(
-            transform.position,
-            new Vector2(player.position.x, transform.position.y),
-            speed * Time.deltaTime
-        );
+        float newX = Mathf.MoveTowards(transform.position.x, player.position.x, speed * Time.deltaTime);
+        transform.position = new Vector2(newX, transform.position.y);
 
         FaceDirection(player.position.x > transform.position.x);
     }
@@ -81,26 +77,22 @@ public class EnemyAI : MonoBehaviour
     void Hover()
     {
         float hoverY = baseY + Mathf.Sin(Time.time * hoverSpeed) * hoverHeight;
-
-        transform.position = new Vector3(
-            transform.position.x,
-            hoverY,
-            transform.position.z
-        );
+        transform.position = new Vector3(transform.position.x, hoverY, transform.position.z);
     }
 
     void FaceDirection(bool right)
     {
-        transform.localScale = right ? 
-            new Vector3(3, 3, 3) : 
-            new Vector3(-3, 3, 3);
+        transform.localScale = right ?
+            new Vector3(4, 4, 4) :
+            new Vector3(-4, 4, 4);
     }
 
-    public void KillEnemy()  
+    public void KillEnemy()
     {
         isDead = true;
     }
 }
+
 
 
 

@@ -55,6 +55,8 @@ public class PlayerCombat : MonoBehaviour
         }
 
         StartCoroutine(EndAttack());
+
+        Debug.Log("Hit enemies: " + hits.Length);
     }
 
     IEnumerator EndAttack()

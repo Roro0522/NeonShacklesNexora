@@ -8,7 +8,6 @@ public class Camera : MonoBehaviour
 
     void LateUpdate()
     {
-        // Auto-find player if target is null
         if (target == null)
         {
             FindPlayer();

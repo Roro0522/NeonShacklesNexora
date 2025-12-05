@@ -2,12 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class HackingMinigame : MonoBehaviour
 {
+    [Header("Nodes")]
     public List<Button> nodes;
+
+    [Header("Timing")]
     public float allowedTime = 7f;
 
+    [Header("Visuals")]
     public Color hintColor = Color.cyan;
     public Color normalColor = Color.white;
     public float hintDuration = 0.5f;
@@ -17,20 +22,18 @@ public class HackingMinigame : MonoBehaviour
     private HashSet<int> correctNodes = new HashSet<int>();
     private HashSet<int> clickedNodes = new HashSet<int>();
 
-    private string targetScene; 
+    private string targetScene;
+    private HackingUI owner;
 
-    void Awake()
+    public void Begin(string sceneToLoad, HackingUI ui)
     {
-        gameObject.SetActive(false);
-    }
-
-    public void StartHack(string sceneToLoad)
-    {
+        owner = ui;
         targetScene = sceneToLoad;
-        gameObject.SetActive(true);
+
+        SetupMinigame();
     }
 
-    void OnEnable()
+    void SetupMinigame()
     {
         timer = allowedTime;
         correctNodes.Clear();
@@ -38,20 +41,34 @@ public class HackingMinigame : MonoBehaviour
 
         PickCorrectNodes();
         AddButtonListeners();
+
+        StopAllCoroutines();
         StartCoroutine(ShowHints());
     }
 
     void Update()
     {
+        if (!gameObject.activeInHierarchy) return;
+
         timer -= Time.unscaledDeltaTime;
-        if (timer <= 0)
+        if (timer <= 0f)
+        {
             FailHack();
+        }
     }
 
     void PickCorrectNodes()
     {
+        if (nodes == null || nodes.Count == 0)
+        {
+            Debug.LogError("HackingMinigame: No nodes assigned!");
+            return;
+        }
+
         while (correctNodes.Count < 3)
+        {
             correctNodes.Add(Random.Range(0, nodes.Count));
+        }
     }
 
     void AddButtonListeners()
@@ -80,33 +97,49 @@ public class HackingMinigame : MonoBehaviour
         if (correctNodes.Contains(idx))
         {
             clickedNodes.Add(idx);
-
             if (clickedNodes.Count == correctNodes.Count)
                 SuccessHack();
         }
-        else FailHack();
+        else
+        {
+            FailHack();
+        }
     }
 
     void SuccessHack()
     {
         Debug.Log("Hack success!");
-        HackingUI.Instance.Close();
+        
+        if (owner != null)
+        owner.Close();
 
         if (string.IsNullOrEmpty(targetScene))
-        {
-            Debug.LogWarning("No scene target set! Make sure HackingUI.Open(sceneName) is used.");
-            return;
-        }
 
-        FadeTransition.Instance.FadeToScene(targetScene);
+        return;
+        
+        if (FadeTransition.Instance != null)
+        {
+            FadeTransition.Instance.FadeToScene(targetScene);
+        }
+        
+        else
+        
+        {
+            SceneManager.LoadScene(targetScene);
+        }
     }
 
     void FailHack()
     {
         Debug.Log("Hack failed!");
-        HackingUI.Instance.Close();
+
+        if (owner != null)
+            owner.Close();
     }
 }
+
+
+
 
 
 

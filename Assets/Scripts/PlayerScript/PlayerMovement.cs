@@ -29,12 +29,9 @@ public class PlayerMoveRB : MonoBehaviour
         HandleCrouch();
         HandleMovement();
         HandleJump();
-        DropDownPlatform();   // NEW
+        DropDownPlatform();   
     }
 
-    // ------------------------------------------------
-    // CROUCHING
-    // ------------------------------------------------
     void HandleCrouch()
     {
         if (Input.GetKeyDown(crouch) && isGrounded)
@@ -50,9 +47,6 @@ public class PlayerMoveRB : MonoBehaviour
         }
     }
 
-    // ------------------------------------------------
-    // MOVEMENT
-    // ------------------------------------------------
     void HandleMovement()
     {
         float move = 0f;
@@ -68,7 +62,6 @@ public class PlayerMoveRB : MonoBehaviour
 
         rb.linearVelocity = new Vector2(move * finalSpeed, rb.linearVelocity.y);
 
-        // Animation logic
         if (isCrouching)
         {
             anim.SetFloat("speed", 0f);
@@ -80,14 +73,11 @@ public class PlayerMoveRB : MonoBehaviour
             anim.SetFloat("speed", animSpeed);
         }
 
-        // Flip sprite
+
         if (move < 0) transform.localScale = new Vector3(-1, 1, 1);
         if (move > 0) transform.localScale = new Vector3(1, 1, 1);
     }
 
-    // ------------------------------------------------
-    // JUMPING
-    // ------------------------------------------------
     void HandleJump()
     {
         if (Input.GetKeyDown(jump) && isGrounded && !isCrouching)
@@ -97,12 +87,8 @@ public class PlayerMoveRB : MonoBehaviour
         }
     }
 
-    // ------------------------------------------------
-    // DROP DOWN THROUGH PLATFORM
-    // ------------------------------------------------
     void DropDownPlatform()
     {
-        // Crouch + Jump → Drop down
         if (isCrouching && Input.GetKeyDown(jump))
         {
             StartCoroutine(DisablePlatformCollision());
@@ -126,9 +112,6 @@ public class PlayerMoveRB : MonoBehaviour
         );
     }
 
-    // ------------------------------------------------
-    // GROUND CHECK
-    // ------------------------------------------------
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.CompareTag("Ground") ||

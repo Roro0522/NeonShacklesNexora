@@ -2,43 +2,44 @@ using UnityEngine;
 
 public class HackingUI : MonoBehaviour
 {
-    public static HackingUI Instance;
+    public GameObject panel;
 
-    [HideInInspector] 
-    public string sceneTarget;  
+    private HackingMinigame minigame;
 
-    private void Awake()
+    void Awake()
     {
-        if (Instance == null)
+        if (panel == null)
         {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
+            Debug.LogError("HackingUI: Panel is not assigned!");
             return;
         }
 
-        gameObject.SetActive(false);
+        minigame = panel.GetComponent<HackingMinigame>();
+
+        if (minigame == null)
+        {
+            Debug.LogError("HackingUI: No HackingMinigame found on Panel!");
+            return;
+        }
+
+        panel.SetActive(false);
     }
 
     public void Open(string sceneName)
     {
-        sceneTarget = sceneName;
+        if (minigame == null) return;
 
-        GetComponent<HackingMinigame>().StartHack(sceneName);
+        panel.SetActive(true);
+        Time.timeScale = 0f; 
 
-        gameObject.SetActive(true);
-        Time.timeScale = 0f;
+        minigame.Begin(sceneName, this);
     }
 
     public void Close()
     {
-        gameObject.SetActive(false);
+        panel.SetActive(false);
         Time.timeScale = 1f;
     }
 }
-
 
 

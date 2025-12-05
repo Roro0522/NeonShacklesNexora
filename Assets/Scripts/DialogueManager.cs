@@ -1,17 +1,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
     public static DialogueManager Instance;
 
-    public GameObject dialogueBox;
+    [Header("UI References")]
+    public CanvasGroup dialogueGroup;     
     public TextMeshProUGUI dialogueText;
     public GameObject continueHint;
 
     private Queue<string> dialogueLines = new Queue<string>();
     private bool dialogueActive = false;
+
+    void Awake()
+    {
+        Instance = this;
+
+        if (dialogueGroup != null)
+        {
+            dialogueGroup.alpha = 0f;
+            dialogueGroup.interactable = false;
+            dialogueGroup.blocksRaycasts = false;
+        }
+
+        if (continueHint != null)
+            continueHint.SetActive(false);
+    }
 
     void Update()
     {
@@ -23,15 +40,24 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(string[] lines)
     {
-        dialogueLines.Clear();
+        if (dialogueGroup == null)
+        {
+            Debug.LogError("DialogueManager: dialogueGroup not assigned!");
+            return;
+        }
 
+        dialogueLines.Clear();
         foreach (string line in lines)
             dialogueLines.Enqueue(line);
 
         dialogueActive = true;
 
-        dialogueBox.SetActive(true);
-        continueHint.SetActive(true);
+        dialogueGroup.alpha = 1f;
+        dialogueGroup.interactable = true;
+        dialogueGroup.blocksRaycasts = true;
+
+        if (continueHint != null)
+            continueHint.SetActive(true);
 
         DisplayNextLine();
     }
@@ -45,28 +71,23 @@ public class DialogueManager : MonoBehaviour
         }
 
         string line = dialogueLines.Dequeue();
-        dialogueText.text = line;
+        if (dialogueText != null)
+            dialogueText.text = line;
     }
 
     void EndDialogue()
     {
         dialogueActive = false;
-        dialogueBox.SetActive(false);
-        continueHint.SetActive(false);
-    }
 
-    void Awake()
-    {
-        if (Instance == null)
-    {
-        Instance = this;
-        DontDestroyOnLoad(gameObject);   // <--- REQUIRED
-    }
-    else
-    {
-        Destroy(gameObject);
-    }
-    }
+        if (dialogueGroup != null)
+        {
+            dialogueGroup.alpha = 0f;
+            dialogueGroup.interactable = false;
+            dialogueGroup.blocksRaycasts = false;
+        }
 
+        if (continueHint != null)
+            continueHint.SetActive(false);
+    }
 }
 
