@@ -4,7 +4,7 @@ using System.Collections;
 
 public class AutoReturnToMenu : MonoBehaviour
 {
-    public float delay = 10f;
+    public float delay = 20f;
 
     void Start()
     {
