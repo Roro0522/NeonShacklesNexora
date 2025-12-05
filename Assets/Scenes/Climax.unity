@@ -662,7 +662,7 @@ GameObject:
   - component: {fileID: 365751562}
   - component: {fileID: 365751561}
   m_Layer: 8
-  m_Name: IntroDialogue
+  m_Name: FinalDialogue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

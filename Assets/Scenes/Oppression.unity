@@ -2810,7 +2810,8 @@ MonoBehaviour:
     E - To Interact with NPCs and Objects.
 
     F - To Melee Attack'
-  - Collect the Memories and find the bbackdoor, if you want your freedom...
+  - Collect the Memory bits to increase your emtion, and find the backdoor, if you
+    want your freedom...
   autoTrigger: 1
 --- !u!212 &902921441
 SpriteRenderer:
