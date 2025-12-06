@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 7e354afffd6343a44a5ea91160a27f5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1751953098260995177
+    second: Cybertech_160x90x16_0
+  - first:
+      213: 322535013408375786
+    second: Cybertech_160x90x16_1
+  - first:
+      213: 2176186116807207951
+    second: Cybertech_160x90x16_2
+  - first:
+      213: 7308671805512276534
+    second: Cybertech_160x90x16_3
+  - first:
+      213: 7321365615901412730
+    second: Cybertech_160x90x16_4
+  - first:
+      213: -955729450236669449
+    second: Cybertech_160x90x16_5
+  - first:
+      213: 3535674464468942186
+    second: Cybertech_160x90x16_6
+  - first:
+      213: 4210214554921121177
+    second: Cybertech_160x90x16_7
+  - first:
+      213: -1150005941301594638
+    second: Cybertech_160x90x16_8
+  - first:
+      213: 1763067223692040803
+    second: Cybertech_160x90x16_9
+  - first:
+      213: 1517732844855075450
+    second: Cybertech_160x90x16_10
+  - first:
+      213: -1377511841811178111
+    second: Cybertech_160x90x16_11
+  - first:
+      213: 1965469240231236585
+    second: Cybertech_160x90x16_12
+  - first:
+      213: -5666292566853892120
+    second: Cybertech_160x90x16_13
+  - first:
+      213: 4271004881986774295
+    second: Cybertech_160x90x16_14
+  - first:
+      213: 1930015006526199196
+    second: Cybertech_160x90x16_15
+  - first:
+      213: -3430683032239583199
+    second: Cybertech_160x90x16_16
+  - first:
+      213: -4910751783345171959
+    second: Cybertech_160x90x16_17
+  - first:
+      213: -5409270890439521851
+    second: Cybertech_160x90x16_18
+  - first:
+      213: -9010509231930645296
+    second: Cybertech_160x90x16_19
+  - first:
+      213: 5207515614294394641
+    second: Cybertech_160x90x16_20
+  - first:
+      213: -963054409031548174
+    second: Cybertech_160x90x16_21
+  - first:
+      213: -753899707327371654
+    second: Cybertech_160x90x16_22
+  - first:
+      213: -5390973885460464487
+    second: Cybertech_160x90x16_23
+  - first:
+      213: -8308448018619954
+    second: Cybertech_160x90x16_24
+  - first:
+      213: 388901953540609926
+    second: Cybertech_160x90x16_25
+  - first:
+      213: 1166177878656244666
+    second: Cybertech_160x90x16_26
+  - first:
+      213: -2994007247212587810
+    second: Cybertech_160x90x16_27
+  - first:
+      213: 2203641295464097765
+    second: Cybertech_160x90x16_28
+  - first:
+      213: -6424154708898790015
+    second: Cybertech_160x90x16_29
+  - first:
+      213: -3840911237818797417
+    second: Cybertech_160x90x16_30
+  - first:
+      213: -1057636984734944964
+    second: Cybertech_160x90x16_31
+  - first:
+      213: 862645821613204934
+    second: Cybertech_160x90x16_32
+  - first:
+      213: -8967319525081835850
+    second: Cybertech_160x90x16_33
+  - first:
+      213: 551542280937393334
+    second: Cybertech_160x90x16_34
+  - first:
+      213: 6332875537834763410
+    second: Cybertech_160x90x16_35
+  - first:
+      213: -8858655337318134071
+    second: Cybertech_160x90x16_36
+  - first:
+      213: 1777559407632428085
+    second: Cybertech_160x90x16_37
+  - first:
+      213: 4810656348775776475
+    second: Cybertech_160x90x16_38
+  - first:
+      213: 2086698430639836885
+    second: Cybertech_160x90x16_39
+  - first:
+      213: 6203353249170766440
+    second: Cybertech_160x90x16_40
+  - first:
+      213: -5666078648754725217
+    second: Cybertech_160x90x16_41
+  - first:
+      213: -7843046155124412478
+    second: Cybertech_160x90x16_42
+  - first:
+      213: 8267073993734529965
+    second: Cybertech_160x90x16_43
+  - first:
+      213: -8457980667912676067
+    second: Cybertech_160x90x16_44
+  - first:
+      213: -3031736683357244643
+    second: Cybertech_160x90x16_45
+  - first:
+      213: 6539859337291109216
+    second: Cybertech_160x90x16_46
+  - first:
+      213: 6939670926235549759
+    second: Cybertech_160x90x16_47
+  - first:
+      213: 3398584540188586172
+    second: Cybertech_160x90x16_48
+  - first:
+      213: -4629791804360702075
+    second: Cybertech_160x90x16_49
+  - first:
+      213: -5212613640001745577
+    second: Cybertech_160x90x16_50
+  - first:
+      213: -4253861344777865220
+    second: Cybertech_160x90x16_51
+  - first:
+      213: 4254335047498992259
+    second: Cybertech_160x90x16_52
+  - first:
+      213: -487534648124368964
+    second: Cybertech_160x90x16_53
+  - first:
+      213: -4410767703567508061
+    second: Cybertech_160x90x16_54
+  - first:
+      213: -6226292947773975790
+    second: Cybertech_160x90x16_55
+  - first:
+      213: 2986429535741663153
+    second: Cybertech_160x90x16_56
+  - first:
+      213: -8839372672589294745
+    second: Cybertech_160x90x16_57
+  - first:
+      213: -6714186177630992818
+    second: Cybertech_160x90x16_58
+  - first:
+      213: -6318405311278406704
+    second: Cybertech_160x90x16_59
+  - first:
+      213: -8305009117461829851
+    second: Cybertech_160x90x16_60
+  - first:
+      213: -5284946222944440435
+    second: Cybertech_160x90x16_61
+  - first:
+      213: 8408019670465927994
+    second: Cybertech_160x90x16_62
+  - first:
+      213: 4016326792603191384
+    second: Cybertech_160x90x16_63
+  - first:
+      213: -4409944397106992314
+    second: Cybertech_160x90x16_64
+  - first:
+      213: -5573600364440636757
+    second: Cybertech_160x90x16_65
+  - first:
+      213: 2601135740736002483
+    second: Cybertech_160x90x16_66
+  - first:
+      213: -2938262625108315170
+    second: Cybertech_160x90x16_67
+  - first:
+      213: 5555503736593890779
+    second: Cybertech_160x90x16_68
+  - first:
+      213: 901593332754542927
+    second: Cybertech_160x90x16_69
+  - first:
+      213: 6941500011237665851
+    second: Cybertech_160x90x16_70
+  - first:
+      213: 4415858430707360321
+    second: Cybertech_160x90x16_71
+  - first:
+      213: 7223775326048529949
+    second: Cybertech_160x90x16_72
+  - first:
+      213: -9176597559662798259
+    second: Cybertech_160x90x16_73
+  - first:
+      213: -4496939704456583097
+    second: Cybertech_160x90x16_74
+  - first:
+      213: -2538258581641356021
+    second: Cybertech_160x90x16_75
+  - first:
+      213: -7342878366834294339
+    second: Cybertech_160x90x16_76
+  - first:
+      213: 3244991633738791831
+    second: Cybertech_160x90x16_77
+  - first:
+      213: 6451940947997634599
+    second: Cybertech_160x90x16_78
+  - first:
+      213: 2677820287768444205
+    second: Cybertech_160x90x16_79
+  - first:
+      213: -5034577275736583041
+    second: Cybertech_160x90x16_80
+  - first:
+      213: 8964444047679105044
+    second: Cybertech_160x90x16_81
+  - first:
+      213: -215405944404474250
+    second: Cybertech_160x90x16_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793220b70ffcfa7e0800000000000000
+      internalID: -1751953098260995177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 74
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305d5c2efd97400800000000000000
+      internalID: 322535013408375786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2e694ebd533e10800000000000000
+      internalID: 2176186116807207951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad87bb84e9d6560800000000000000
+      internalID: 7308671805512276534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0096cc37ba9560800000000000000
+      internalID: 7321365615901412730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19341f0219cb2f0800000000000000
+      internalID: -955729450236669449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 75
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3710513d311130800000000000000
+      internalID: 3535674464468942186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b04eb4dfad6a30800000000000000
+      internalID: 4210214554921121177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5312b70bb5a00f0800000000000000
+      internalID: -1150005941301594638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5c4f7c4ca77810800000000000000
+      internalID: 1763067223692040803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a7892bf1101510800000000000000
+      internalID: 1517732844855075450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d53fa374812ece0800000000000000
+      internalID: -1377511841811178111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e390f84cdfb64b10800000000000000
+      internalID: 1965469240231236585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7cc378ee84d51b0800000000000000
+      internalID: -5666292566853892120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e7c8bf48a54b30800000000000000
+      internalID: 4271004881986774295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95da2b3c6ac8ca10800000000000000
+      internalID: 1930015006526199196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120566e65f3c360d0800000000000000
+      internalID: -3430683032239583199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9025895754189dbb0800000000000000
+      internalID: -4910751783345171959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9cd71e8c86ee4b0800000000000000
+      internalID: -5409270890439521851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d46561e79d34f280800000000000000
+      internalID: -9010509231930645296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11741505cdfc44840800000000000000
+      internalID: 5207515614294394641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f20d421e1b82a2f0800000000000000
+      internalID: -963054409031548174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a762b74e53c9985f0800000000000000
+      internalID: -753899707327371654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cb8b350d96f25b0800000000000000
+      internalID: -5390973885460464487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec12733b28b72eff0800000000000000
+      internalID: -8308448018619954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6875e392448a56500800000000000000
+      internalID: 388901953540609926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb593a1a981f2010800000000000000
+      internalID: 1166177878656244666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d2f685462376d0800000000000000
+      internalID: -2994007247212587810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e4843518e49e10800000000000000
+      internalID: 2203641295464097765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854fe13451d8d6a0800000000000000
+      internalID: -6424154708898790015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7923108449752bac0800000000000000
+      internalID: -3840911237818797417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31fe8714c48251f0800000000000000
+      internalID: -1057636984734944964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5ea34edcbb8fb00800000000000000
+      internalID: 862645821613204934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69210276ead8380800000000000000
+      internalID: -8967319525081835850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc1e548c877a700800000000000000
+      internalID: 551542280937393334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e667afb4e2e750800000000000000
+      internalID: 6332875537834763410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec887e7ebbf0580800000000000000
+      internalID: -8858655337318134071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca5130dd82ba810800000000000000
+      internalID: 1777559407632428085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd002451672e2c240800000000000000
+      internalID: 4810656348775776475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de07a7ba2175fc10800000000000000
+      internalID: 2086698430639836885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ab611d9ecb61650800000000000000
+      internalID: 6203353249170766440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e9c873d7b0e51b0800000000000000
+      internalID: -5666078648754725217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfe0de7317e72390800000000000000
+      internalID: -7843046155124412478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_43
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3aa681ffb8ab270800000000000000
+      internalID: 8267073993734529965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d91f315673f9a80800000000000000
+      internalID: -8457980667912676067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1378ff9c8b1de5d0800000000000000
+      internalID: -3031736683357244643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 42
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631248ea6f32ca50800000000000000
+      internalID: 6539859337291109216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 42
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30406080f9ae4060800000000000000
+      internalID: 6939670926235549759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 51
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0331102a23a2f20800000000000000
+      internalID: 3398584540188586172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c01532ecafbfb0800000000000000
+      internalID: -4629791804360702075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0754138319a7b0800000000000000
+      internalID: -5212613640001745577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ffb415af37f4c0800000000000000
+      internalID: -4253861344777865220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0cad6f2f6a0b30800000000000000
+      internalID: 4254335047498992259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71ad212ddeb39f0800000000000000
+      internalID: -487534648124368964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add712942ec9c2c0800000000000000
+      internalID: -4410767703567508061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21399646d83c799a0800000000000000
+      internalID: -6226292947773975790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7dd9807dde17920800000000000000
+      internalID: 2986429535741663153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631505236d345580800000000000000
+      internalID: -8839372672589294745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e468776ae3b62d2a0800000000000000
+      internalID: -6714186177630992818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d32f4288d38058a0800000000000000
+      internalID: -6318405311278406704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ae41a53eaebc80800000000000000
+      internalID: -8305009117461829851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8faa5c396918a6b0800000000000000
+      internalID: -5284946222944440435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5e9ab7594fa470800000000000000
+      internalID: 8408019670465927994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584ffe30fbdcb730800000000000000
+      internalID: 4016326792603191384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ba63b8feabcc2c0800000000000000
+      internalID: -4409944397106992314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 25
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2378daff796a2b0800000000000000
+      internalID: -5573600364440636757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_66
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 32
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9542fbc27191420800000000000000
+      internalID: 2601135740736002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3bc95c5b13937d0800000000000000
+      internalID: -2938262625108315170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb800d63d191d40800000000000000
+      internalID: 5555503736593890779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f1bafb5a138c00800000000000000
+      internalID: 901593332754542927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce03a8b79255060800000000000000
+      internalID: 6941500011237665851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e9b4b8d7484d30800000000000000
+      internalID: 4415858430707360321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eaa56c261004460800000000000000
+      internalID: 7223775326048529949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a1591a32d26a080800000000000000
+      internalID: -9176597559662798259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e3832a29a791c0800000000000000
+      internalID: -4496939704456583097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1e2da44b46ccd0800000000000000
+      internalID: -2538258581641356021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db101f3970bd81a90800000000000000
+      internalID: -7342878366834294339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7d1cb2b6880d20800000000000000
+      internalID: 3244991633738791831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720323dbb16e98950800000000000000
+      internalID: 6451940947997634599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db5c03d57892520800000000000000
+      internalID: 2677820287768444205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74977d54a6912ab0800000000000000
+      internalID: -5034577275736583041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41827ce9d5a186c70800000000000000
+      internalID: 8964444047679105044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cybertech_160x90x16_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67683415f69b20df0800000000000000
+      internalID: -215405944404474250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cybertech_160x90x16_0: -1751953098260995177
+      Cybertech_160x90x16_1: 322535013408375786
+      Cybertech_160x90x16_10: 1517732844855075450
+      Cybertech_160x90x16_11: -1377511841811178111
+      Cybertech_160x90x16_12: 1965469240231236585
+      Cybertech_160x90x16_13: -5666292566853892120
+      Cybertech_160x90x16_14: 4271004881986774295
+      Cybertech_160x90x16_15: 1930015006526199196
+      Cybertech_160x90x16_16: -3430683032239583199
+      Cybertech_160x90x16_17: -4910751783345171959
+      Cybertech_160x90x16_18: -5409270890439521851
+      Cybertech_160x90x16_19: -9010509231930645296
+      Cybertech_160x90x16_2: 2176186116807207951
+      Cybertech_160x90x16_20: 5207515614294394641
+      Cybertech_160x90x16_21: -963054409031548174
+      Cybertech_160x90x16_22: -753899707327371654
+      Cybertech_160x90x16_23: -5390973885460464487
+      Cybertech_160x90x16_24: -8308448018619954
+      Cybertech_160x90x16_25: 388901953540609926
+      Cybertech_160x90x16_26: 1166177878656244666
+      Cybertech_160x90x16_27: -2994007247212587810
+      Cybertech_160x90x16_28: 2203641295464097765
+      Cybertech_160x90x16_29: -6424154708898790015
+      Cybertech_160x90x16_3: 7308671805512276534
+      Cybertech_160x90x16_30: -3840911237818797417
+      Cybertech_160x90x16_31: -1057636984734944964
+      Cybertech_160x90x16_32: 862645821613204934
+      Cybertech_160x90x16_33: -8967319525081835850
+      Cybertech_160x90x16_34: 551542280937393334
+      Cybertech_160x90x16_35: 6332875537834763410
+      Cybertech_160x90x16_36: -8858655337318134071
+      Cybertech_160x90x16_37: 1777559407632428085
+      Cybertech_160x90x16_38: 4810656348775776475
+      Cybertech_160x90x16_39: 2086698430639836885
+      Cybertech_160x90x16_4: 7321365615901412730
+      Cybertech_160x90x16_40: 6203353249170766440
+      Cybertech_160x90x16_41: -5666078648754725217
+      Cybertech_160x90x16_42: -7843046155124412478
+      Cybertech_160x90x16_43: 8267073993734529965
+      Cybertech_160x90x16_44: -8457980667912676067
+      Cybertech_160x90x16_45: -3031736683357244643
+      Cybertech_160x90x16_46: 6539859337291109216
+      Cybertech_160x90x16_47: 6939670926235549759
+      Cybertech_160x90x16_48: 3398584540188586172
+      Cybertech_160x90x16_49: -4629791804360702075
+      Cybertech_160x90x16_5: -955729450236669449
+      Cybertech_160x90x16_50: -5212613640001745577
+      Cybertech_160x90x16_51: -4253861344777865220
+      Cybertech_160x90x16_52: 4254335047498992259
+      Cybertech_160x90x16_53: -487534648124368964
+      Cybertech_160x90x16_54: -4410767703567508061
+      Cybertech_160x90x16_55: -6226292947773975790
+      Cybertech_160x90x16_56: 2986429535741663153
+      Cybertech_160x90x16_57: -8839372672589294745
+      Cybertech_160x90x16_58: -6714186177630992818
+      Cybertech_160x90x16_59: -6318405311278406704
+      Cybertech_160x90x16_6: 3535674464468942186
+      Cybertech_160x90x16_60: -8305009117461829851
+      Cybertech_160x90x16_61: -5284946222944440435
+      Cybertech_160x90x16_62: 8408019670465927994
+      Cybertech_160x90x16_63: 4016326792603191384
+      Cybertech_160x90x16_64: -4409944397106992314
+      Cybertech_160x90x16_65: -5573600364440636757
+      Cybertech_160x90x16_66: 2601135740736002483
+      Cybertech_160x90x16_67: -2938262625108315170
+      Cybertech_160x90x16_68: 5555503736593890779
+      Cybertech_160x90x16_69: 901593332754542927
+      Cybertech_160x90x16_7: 4210214554921121177
+      Cybertech_160x90x16_70: 6941500011237665851
+      Cybertech_160x90x16_71: 4415858430707360321
+      Cybertech_160x90x16_72: 7223775326048529949
+      Cybertech_160x90x16_73: -9176597559662798259
+      Cybertech_160x90x16_74: -4496939704456583097
+      Cybertech_160x90x16_75: -2538258581641356021
+      Cybertech_160x90x16_76: -7342878366834294339
+      Cybertech_160x90x16_77: 3244991633738791831
+      Cybertech_160x90x16_78: 6451940947997634599
+      Cybertech_160x90x16_79: 2677820287768444205
+      Cybertech_160x90x16_8: -1150005941301594638
+      Cybertech_160x90x16_80: -5034577275736583041
+      Cybertech_160x90x16_81: 8964444047679105044
+      Cybertech_160x90x16_82: -215405944404474250
+      Cybertech_160x90x16_9: 1763067223692040803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
