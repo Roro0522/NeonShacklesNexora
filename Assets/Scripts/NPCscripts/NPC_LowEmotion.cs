@@ -4,15 +4,31 @@ public class NPC_LowEmotion : MonoBehaviour
 {
     public int maxEmotionAllowed = 3;
 
+    private bool isActive = true;
+
     void Start()
     {
+        UpdateVisibility();
+    }
+
+    void Update()
+    {
+        UpdateVisibility();
+    }
+
+    void UpdateVisibility()
+    {
         if (EmotionalSystem.Instance == null)
-        {
-            Debug.LogWarning("NPC_LowEmotion: EmotionalSystem not found");
             return;
-        }
 
         int emotion = EmotionalSystem.Instance.emotionalScore;
-        gameObject.SetActive(emotion <= maxEmotionAllowed);
+
+        bool shouldBeActive = emotion <= maxEmotionAllowed;
+
+        if (isActive != shouldBeActive)
+        {
+            isActive = shouldBeActive;
+            gameObject.SetActive(isActive);
+        }
     }
 }

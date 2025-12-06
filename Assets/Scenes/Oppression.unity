@@ -2962,7 +2962,8 @@ MonoBehaviour:
 
     E - To Interact with NPCs and Objects.
 
-    F - To Melee Attack'
+    F - To Melee Attack (You
+    can break boxes too!)'
   - Collect the Memory bits to increase your emtion, and find the backdoor, if you
     want your freedom...
   autoTrigger: 1

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EmotionFireflyZone : MonoBehaviour
 {
-    public int requiredEmotion => 4;
+    public int requiredEmotion = 4;
     public ParticleSystem fireflies;
 
     void Start()
